@@ -34,7 +34,7 @@ getJSONP( 'https://jsonplaceholder.typicode.com/posts/10', 'logAPI' );
 
 ## Browser Compatibility
 
-scrollStop works in all modern browsers, and IE 6 and above.
+getJSONP works in all modern browsers, and IE 6 and above.
 
 
 
